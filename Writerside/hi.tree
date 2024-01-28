@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE instance-profile
+        SYSTEM "https://resources.jetbrains.com/writerside/1.0/product-profile.dtd">
+
+<instance-profile id="hi"
+                 name="Help Instance"
+                 start-page="BORUSAN-EYH-FAZ-2-DOKUMANTASYON.md">
+
+    <toc-element topic="BORUSAN-EYH-FAZ-2-DOKUMANTASYON.md"/>
+    <toc-element topic="Alışveriş-raporu-mininmum-fiyat-ve-toplam-tutar-düzenlemesi.md"/>
+    <toc-element topic="Ürünler-Düzenlenirken-ve-eklerken-Ürünlerin-Aktif-Pasifliği.md"/>
+    <toc-element topic="Periyot-İsimlendirme.md"/>
+    <toc-element topic="Sıkça-Sorulan-Sorular-Düzenlemesi.md"/>
+    <toc-element topic="Ürün-Yenilikler-Düzenlemesi.md"/>
+    <toc-element topic="Ürün-Fiziki-mi-Dijital-mi-Seçimi-Yapılması.md"/>
+</instance-profile>
