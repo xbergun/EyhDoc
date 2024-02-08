@@ -68,7 +68,7 @@ Parametre olarak sadece yenilik ürünlerini çekebilirsiniz..
 }
 ```
 
-### POST
+## POST
 
 <tabs>
     <tab title="API URL">
@@ -101,7 +101,7 @@ IS_INNOVATION değeri yollanmazsa, otomatik olarak 0 atanır.
 }
 ```
 
-### UPDATE
+## UPDATE
 
 <tabs>
     <tab title="API URL">

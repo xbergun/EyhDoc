@@ -10,7 +10,7 @@ Product tablosuna, "IS_DIGITAL" adında Boolean bir field eklenmiştir.
 Olarak temsil edilir.
 
 
-## GET
+# GET
 
 ### 1.YOL
 Tüm ürünleri çekip, IS_DIGITAL alanı 1 yada 0 olanları filtreleyebilirsiniz.
@@ -70,7 +70,7 @@ Parametre olarak sadece yenilik ürünlerini çekebilirsiniz..
 }
 ```
 
-### POST
+# POST
 
 <tabs>
     <tab title="API URL">
@@ -103,7 +103,7 @@ IS_DIGITAL değeri yollanmazsa, otomatik olarak 0 atanır.
 }
 ```
 
-### UPDATE
+# UPDATE
 
 <tabs>
     <tab title="API URL">

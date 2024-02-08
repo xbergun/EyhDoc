@@ -8,7 +8,7 @@ Sıkça sorulan sorular için yeni bir servis yazılmıştır.
 
 ## API REFERENCE
 
-### GET
+## GET
 <tabs>
     <tab title="API URL">
         <code-block lang="plain text">/com/ittr/sf/eyh/connectivity/rest/faq/read/faq.xsjs</code-block>

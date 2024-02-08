@@ -88,7 +88,7 @@ Giriş yapan kullanıcının segment bilgisine göre ürünleri eşleştirip Use
 }
 ```
 
-### POST
+# POST
 
 <tabs>
     <tab title="API URL">
@@ -119,7 +119,7 @@ Product ile birlikte, SPECIAL_FOR_ME adinda array ile gönderilmelidir.
 }
 ```
 
-### UPDATE
+# UPDATE
 
 <tabs>
     <tab title="API URL">
@@ -184,7 +184,7 @@ Product ile birlikte, SPECIAL_FOR_ME adinda array ile gönderilmelidir.
 }
 ```
 
-### Delete
+# Delete
 
 Kural silme işlemini yapmak için body içerisinde o kuralı yollamamanız yeterli.
 * Örnek olarak, bir üstte olan body de 23232 ID'li kuralı silmek istiyorsunuz.
