@@ -18,32 +18,35 @@ Sıkça sorulan sorular için yeni bir servis yazılmıştır.
 ### RESPONSE
 ```json
 {
-  "EYH Uygulaması ve Kapsamı": [
+  "ID": "1",
+  "CATEGORY": "EYH Uygulaması ve Kapsamı",
+  "CONTENT": [
     {
+      "ID": "1032",
       "QUESTION": "Deneme Question 2",
-      "ANSWER": "Deneme ANSWER 2"
+      "CATEGORY_ID": "1",
+      "ANSWER": "Deneme ANSWER 2",
+      "CREATED_BY": "00030771",
+      "CREATED_AT": "2024-01-27T00:16:52.047Z",
+      "HEADER_TEXT": "EyhKapsam"
     },
     {
+      "ID": "1044",
       "QUESTION": "Deneme Question 3",
-      "ANSWER": "Deneme ANSWER 3"
+      "CATEGORY_ID": "1",
+      "ANSWER": "Deneme ANSWER 3",
+      "CREATED_BY": "00030771",
+      "CREATED_AT": "2024-01-27T00:16:57.826Z",
+      "HEADER_TEXT": "EyhKapsam"
     },
     {
+      "ID": "1056",
       "QUESTION": "Deneme Question 4",
-      "ANSWER": "Deneme ANSWER 4"
-    }
-  ],
-  "EYH Seçim ve Sistem Kullanımı": [
-    {
-      "QUESTION": "Deneme Question 1",
-      "ANSWER": "Deneme ANSWER 1"
-    },
-    {
-      "QUESTION": "Deneme Question 2",
-      "ANSWER": "Deneme ANSWER 2"
-    },
-    {
-      "QUESTION": "Deneme Question 3",
-      "ANSWER": "Deneme ANSWER 3"
+      "CATEGORY_ID": "1",
+      "ANSWER": "Deneme ANSWER 4",
+      "CREATED_BY": "00030771",
+      "CREATED_AT": "2024-01-27T00:17:04.326Z",
+      "HEADER_TEXT": "EyhKapsam"
     }
   ]
 }
@@ -60,16 +63,13 @@ Sıkça sorulan sorular için yeni bir servis yazılmıştır.
 
 ```json
 {
-  "QUESTION" : "Deneme Question 10",
-  "ANSWER" : "Deneme ANSWER 10",
-  "CATEGORY" : "Ürünler ve Kullanım Koşulları"
+  "QUESTION" : "DENEME CREATE QUESTION",
+  "ANSWER": "DENEME CREATE ANSWER",
+  "CATEGORY" : "Tedarik ve Teslimat",
+  "CATEGORY_ID": "4",
+  "HEADER_TEXT" : "DENEME CREATE QUESTION"
 }
 ```
-> **ÖNEMLİ**
->
-> KATEGORİ İSMİ TAM OLARAK DOĞRU ŞEKİLDE GİRİLMELİDİR. EĞER STRİNG UYUŞMAZSA BAŞKA KATEGORİ AÇAR.
->
-{style="note"}
 
 ### POST RESPONSE
 
@@ -90,17 +90,14 @@ Sıkça sorulan sorular için yeni bir servis yazılmıştır.
 
 ```json
 {
-  "ID": "1203",
-  "QUESTION" : "Deneme Question 10",
-  "ANSWER" : "Deneme ANSWER 10",
-  "CATEGORY" : "Ürünler ve Kullanım Koşulları"
+  "ID" : "1140",
+  "QUESTION" : "sdasadsadsa",
+  "ANSWER": "asdsadsds",
+  "CATEGORY" : "Tedarik ve Teslimat",
+  "CATEGORY_ID": "4",
+  "HEADER_TEXT" : "DENEME UPDATEDD QUESTION"
 }
 ```
-> **ÖNEMLİ**
->
-> KATEGORİ İSMİ TAM OLARAK DOĞRU ŞEKİLDE GİRİLMELİDİR. EĞER STRİNG UYUŞMAZSA BAŞKA KATEGORİ AÇAR.
->
-{style="note"}
 
 ### UPDATE RESPONSE
 
