@@ -65,7 +65,6 @@ Sıkça sorulan sorular için yeni bir servis yazılmıştır.
 {
   "QUESTION" : "DENEME CREATE QUESTION",
   "ANSWER": "DENEME CREATE ANSWER",
-  "CATEGORY" : "Tedarik ve Teslimat",
   "CATEGORY_ID": "4",
   "HEADER_TEXT" : "DENEME CREATE QUESTION"
 }
@@ -93,7 +92,6 @@ Sıkça sorulan sorular için yeni bir servis yazılmıştır.
   "ID" : "1140",
   "QUESTION" : "sdasadsadsa",
   "ANSWER": "asdsadsds",
-  "CATEGORY" : "Tedarik ve Teslimat",
   "CATEGORY_ID": "4",
   "HEADER_TEXT" : "DENEME UPDATEDD QUESTION"
 }
